@@ -1,0 +1,46 @@
+[{
+    "nombre": "Ana",
+    "apellido":"Sativa",
+    "email":"ansativa@poligran.edu.co",
+    "telefono":3192114014,
+    "direccion":"calle 64 No 05-22 apto 105",
+    "ciudad":"Bogota"
+
+},
+{
+    "nombre": "Juan",
+    "apellido":"Beltran",
+    "email":"jubeltran3@poligran.edu.co",
+    "telefono":3057492055,
+    "direccion":"calle 64 No 05-22 apto 105",
+    "ciudad":"Bogota"
+
+},
+{
+    "nombre": "Luisa",
+    "apellido":"Londoño",
+    "email":"lalondono@gmail.com",
+    "telefono":3124587964,
+    "direccion":"Calle 40 sur No 72 d 50",
+    "ciudad":"Bogota"
+
+},
+{
+    "nombre": "Carlos",
+    "apellido":"Velez",
+    "email":"cvelez@yahoo.com",
+    "telefono":32101254789,
+    "direccion":"El poblado",
+    "ciudad":"Medellin"
+
+},
+{
+    "nombre": "Brayan",
+    "apellido":"Montoya",
+    "email":"bmontoya@hotmail.com",
+    "telefono":3125847963,
+    "direccion":"Chipichape",
+    "ciudad":"Cali"
+
+}
+]
